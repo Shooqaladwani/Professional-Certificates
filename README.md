@@ -38,59 +38,38 @@ Professional-Certificates/
 ## 💻 Tuwaiq Academy
 
 ### HTML Fundamentals
-
-![HTML Fundamentals](Tuwaiq Academy/HTML-Fundamentals.png)
-
----
+![HTML Fundamentals](Tuwaiq%20Academy/HTML-Fundamentals.png)
 
 ### CSS Fundamentals
-
-![CSS Fundamentals](Tuwaiq Academy/CSS-Fundamentals.png)
-
----
+![CSS Fundamentals](Tuwaiq%20Academy/CSS-Fundamentals.png)
 
 ### JavaScript 101
-
-![JavaScript 101](Tuwaiq Academy/JavaScript-101.png)
-
----
+![JavaScript 101](Tuwaiq%20Academy/JavaScript-101.png)
 
 ### JavaScript 102
-
-![JavaScript 102](Tuwaiq Academy/JavaScript-102.png)
-
----
+![JavaScript 102](Tuwaiq%20Academy/JavaScript-102.png)
 
 ### JavaScript 103
-
-![JavaScript 103](Tuwaiq Academy/JavaScript-103.png)
-
----
+![JavaScript 103](Tuwaiq%20Academy/JavaScript-103.png)
 
 ### PHP Basics 101
-
-![PHP Basics 101](Tuwaiq Academy/PHP-Basics-101.png)
-
----
+![PHP Basics 101](Tuwaiq%20Academy/PHP-Basics-101.png)
 
 ### PHP Functions 102
-
-![PHP Functions 102](Tuwaiq Academy/PHP-Functions-102.png)
+![PHP Functions 102](Tuwaiq%20Academy/PHP-Functions-102.png)
 
 ---
 
 ## 📊 Data Analytics
 
 ### Power BI Data Analysis
-
-![Power BI Data Analysis](Data Analytics/PowerBI-Data-Analysis.png)
+![Power BI Data Analysis](Data%20Analytics/PowerBI-Data-Analysis.png)
 
 ---
 
 ## 👑 Leadership
 
 ### Leadership Certificate
-
 ![Leadership Certificate](Leadership/Leadership-Certificate.png)
 
 ---
@@ -98,10 +77,7 @@ Professional-Certificates/
 ## 🚀 Entrepreneurship
 
 ### Introduction to Entrepreneurship
-
 ![Introduction to Entrepreneurship](Entrepreneurship/Introduction-to-Entrepreneurship.png)
-
----
 
 ## 📌 About
 
